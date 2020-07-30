@@ -8,6 +8,6 @@ Edge Load Management through Pseudo-flow Prediction, or ELMOPP for short, is a n
 * 7/27/2020 - I finished the first revision of my paper to submit to the *Applied Computing and Informatics* journal.
 * 7/28/2020 - I finished the second revision of my paper after I was given tips and areas of focus around which to clarify parts of my paper.
 * 7/29/2020 - I finished the third revision of my paper after I was given more tips and suggestions.
-* TBD - I submitted my paper to the Regeneron Science Talent Search
+* 7/30/2020 - I submitted my paper to the Regeneron Science Talent Search
 * TBD - I submitted my paper to the Arizona State University Sustainability Fair
 * TBD - I submitted my paper to the Metro Richmond STEM Fair and the Virginia Junior Academy of Science
